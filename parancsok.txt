@@ -1,0 +1,14 @@
+Aktív változások ellenőrzése:
+git status
+
+Hozzáadás a feltöltéshez:
+git add <név>
+
+Feltöltés véglegesítése, megjegyzéssel:
+git commit -m "megjegyzés"
+
+Feltöltés:
+git push
+
+Mappa frissítése:
+git pull
