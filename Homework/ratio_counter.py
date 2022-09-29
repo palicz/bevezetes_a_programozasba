@@ -2,7 +2,7 @@
 
 def main():
 
-     infinity = True # Make the cicle run forever
+     infinity = True # Make the cycle run forever
 
      while infinity == True:
          # Input
@@ -15,7 +15,7 @@ def main():
              print(c)
          except ZeroDivisionError: # ZeroDivisionError
              print("Division by zero not allowed.")
-         # Cicle end message
+         # Cycle end message
          print("Out of try except blocks")
 
 if __name__ == "__main__":
